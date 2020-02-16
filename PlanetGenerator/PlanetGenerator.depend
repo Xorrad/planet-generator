@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1516545842 source:c:\users\aymeric\desktop\code\c++\all\planetgenerator\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	<vector>
+	<string>
+	<time.h>
+	<ctime>
+	<cmath>
+	<fstream>
+	"utils.h"
+
+1516528541 c:\users\aymeric\desktop\code\c++\all\planetgenerator\utils.h
+
+1516648648 source:c:\users\aymeric\desktop\code\c++\all\planetgenerator\utils.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<string>
+	<time.h>
+	<ctime>
+	<cmath>
+	<fstream>
+	"utils.h"
+
+1516652248 source:c:\users\aymeric\desktop\code\c++\old\all\planetgenerator\utils.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<string>
+	<time.h>
+	<ctime>
+	<cmath>
+	<fstream>
+	"utils.h"
+
+1535116021 c:\users\aymeric\desktop\code\c++\old\all\planetgenerator\utils.h
+
